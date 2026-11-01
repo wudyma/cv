@@ -7,12 +7,9 @@
 *.fls
 *.out
 *.toc
+*.fdb_latexmk
 *.synctex.gz
-
-## BibLaTeX auxiliary files:
-*.bbl
-*.bcf
-*.blg
+/build/
 
 ## Intermediate documents:
 *.dvi
